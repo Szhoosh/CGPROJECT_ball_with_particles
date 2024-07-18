@@ -1,6 +1,6 @@
 # Graphics library setup 
 
-## Quick setup
+## Directly run the .exe inside the Home/src to run the program
 
 ## directory look like
 
